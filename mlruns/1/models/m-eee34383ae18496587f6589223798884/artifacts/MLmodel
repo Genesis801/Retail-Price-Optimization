@@ -1,0 +1,20 @@
+artifact_path: file:c:/Users/Genesis/OneDrive/Desktop/Projects/Retail-Price-Optimization/mlruns/1/models/m-eee34383ae18496587f6589223798884/artifacts
+flavors:
+  python_function:
+    data: model.statsmodels
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.statsmodels
+    python_version: 3.14.0
+  statsmodels:
+    code: null
+    data: model.statsmodels
+    statsmodels_version: 0.14.5
+mlflow_version: 3.11.1
+model_id: m-eee34383ae18496587f6589223798884
+model_size_bytes: 1019367
+model_uuid: m-eee34383ae18496587f6589223798884
+prompts: null
+run_id: a4e46752aa87450bbbf0b3d4a2eb3997
+utc_time_created: '2026-04-25 15:41:55.420545'
